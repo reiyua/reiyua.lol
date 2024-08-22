@@ -18,9 +18,13 @@ body {
 }
 
 .centered-content {
-    position: relative;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
     text-align: center;
     color: #ffffff;
+    width: 100%;
 }
 
 h1 {
