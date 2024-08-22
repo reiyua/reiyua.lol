@@ -33,6 +33,12 @@ h1 {
     color: #ffffff;
 }
 
+.email {
+    font-size: 1.2em;
+    margin-top: 10px;
+    color: #ffffff;
+}
+
 .credit {
     position: absolute;
     bottom: 10px;
