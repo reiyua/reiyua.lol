@@ -29,6 +29,24 @@ body {
 
 h1 {
     font-size: 4em;
-    font-family: 'Jersey 10', cursive;
+    font-family: 'Jersey 10', sans-serif;
     color: #ffffff;
+}
+
+.credit {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    color: #ffffff;
+    font-size: 0.8em;
+    z-index: 1;
+}
+
+.credit a {
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+.credit a:hover {
+    text-decoration: none;
 }
