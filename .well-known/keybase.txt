@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/reiyua
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://reiyua.lol
+  * I am reiyua (https://keybase.io/reiyua) on keybase.
+  * I have a public key ASAqQI0om4jQt5vs5xbGsKalvveXfOrwQl_RjEUTpNEoSgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120d0108811f540610c14f99e3931dff6b7e063a665235d87faa6a88a33c18f1dd00a",
+      "host": "keybase.io",
+      "kid": "01202a408d289b88d0b79bece716c6b0a6a5bef7977ceaf0425fd18c4513a4d1284a0a",
+      "uid": "8ce3ccff31a941be03a2c632880a7719",
+      "username": "reiyua"
+    },
+    "merkle_root": {
+      "ctime": 1724381063,
+      "hash": "ca0e51c1d90853e852bc9e09f695ffea24a18517b2e9bc51a599f7ff8d97a9ad589ea2836ead323bd5714348db5ef1ff712a597165fd934f695d7a765c74a4e2",
+      "hash_meta": "4596a454080584dbf00fed88aa1de2d10aae09e015b00ccec396ee42fdacabb1",
+      "seqno": 26035068
+    },
+    "service": {
+      "entropy": "HeJjdZAPwK1faqun+kN9cN+/",
+      "hostname": "reiyua.lol",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.4.0"
+  },
+  "ctime": 1724381069,
+  "expire_in": 504576000,
+  "prev": "2199012cd7d70e3066ff7e0a84a55b79a990e87b4daeba85fb5187f9337f28c7",
+  "seqno": 50,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgKkCNKJuI0Leb7OcWxrCmpb73l3zq8EJf0YxFE6TRKEoKp3BheWxvYWTESpcCMsQgIZkBLNfXDjBm/34KhKVbeamQ6HtNrrqF+1GH+TN/KMfEIF651NDih1MV3PczSqNdtppj3GdGF76Qr5jYCLPhLe6yAgHCo3NpZ8RAaNxVdpDjvBql8Ur5JHnX6FrKfTtAw5bIEdxvYZzTnzQuc7qvDI4zqMzIfpt/Y9yD8Ax5oAuf64Keb5R9KsmlAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIM4FSNbLdKOUACxz0T9b4J3LnDJC4QCC8RZ3Kuzca0i1o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/reiyua
+
+==================================================================
