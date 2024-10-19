@@ -97,3 +97,27 @@ h1 {
     text-align: center;
     font-family: 'Jersey 10', sans-serif;
 }
+
+.home-button {
+    display: inline-block;
+    padding: 15px 30px;
+    margin-top: 20px;
+    background-color: #FAD6A5; /* Green button */
+    color: white;
+    text-decoration: none;
+    font-size: 1.2em;
+    font-family: 'Jersey 10', sans-serif;
+    border-radius: 5px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.home-button:hover {
+    background-color: #45a049; /* Darker green on hover */
+    transform: translateY(-3px); /* Slight raise effect */
+}
+
+.home-button:active {
+    background-color: #388E3C; /* Even darker when active */
+    transform: translateY(0); /* Return to original position */
+}
