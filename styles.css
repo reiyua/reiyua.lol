@@ -121,3 +121,24 @@ h1 {
     background-color: #388E3C; /* Even darker when active */
     transform: translateY(0); /* Return to original position */
 }
+
+.seo-button-container {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.seo-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #ff9900; /* Change to your preferred color */
+    color: #fff;
+    text-decoration: none;
+    font-size: 1rem;
+    border-radius: 5px;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.seo-button:hover {
+    background-color: #0056b3;
+    transform: scale(1.05);
+}
